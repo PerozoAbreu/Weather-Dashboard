@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+}
+
+body {
+    color: rgb(43, 33, 43);
+}
+
+header {
+    padding: 10px 20px;
+
+    background-color: rgb(63, 73, 209);
+}
+
+header h1 {
+    font-weight: bold;
+
+    font-size: 35px;
+
+    color: rgb(183, 190, 190);
+
+    margin: 500px;
+
+    display: inline;
+}
